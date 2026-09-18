@@ -2,8 +2,6 @@
 
 A narrative first-person mystery/horror game with puzzle elements, inspired by the true events of the 1858 Bradford sweets poisoning in Victorian England.
 
-![Entrance Hall](docs/images/entrance-hall.png)
-
 ## Overview
 
 | | |
